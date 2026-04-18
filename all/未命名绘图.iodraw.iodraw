@@ -33,7 +33,7 @@
         <mxCell id="m5FXQEVQ533QLiuY0PbH-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型训练&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Qwen3.5+LoRA微调&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="209" y="167" width="214" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="m5FXQEVQ533QLiuY0PbH-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据集构建&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;标注+数据组织&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="m5FXQEVQ533QLiuY0PbH-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;系统实现&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;推理+验证+输出&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210.5" y="72" width="211" height="57.5" as="geometry" />
         </mxCell>
       </root>
