@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;推理服务层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;模型部署、实时推理、调度&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="194" width="166" height="60" as="geometry" />
+          <mxGeometry x="348" y="217" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结果输出层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;识别/分类/检测结果、可视化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="556" y="194" width="120" height="60" as="geometry" />
