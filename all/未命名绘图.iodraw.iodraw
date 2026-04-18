@@ -11,7 +11,10 @@
           <mxGeometry x="73" y="78" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-4" value="模型训练层&lt;div&gt;特征提取、模型构建、迭代训练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="78" width="155" height="60" as="geometry" />
+          <mxGeometry x="359" y="78" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FXQEVQ533QLiuY0PbH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="164" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
