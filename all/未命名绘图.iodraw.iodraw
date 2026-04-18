@@ -7,6 +7,9 @@
         <mxCell id="m5FXQEVQ533QLiuY0PbH-1" value="视频输入层&lt;div&gt;原始视频采集/读取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="78" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m5FXQEVQ533QLiuY0PbH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
