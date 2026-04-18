@@ -10,11 +10,17 @@
         <mxCell id="m5FXQEVQ533QLiuY0PbH-1" value="视频输入层&lt;div&gt;原始视频采集/读取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="78" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m5FXQEVQ533QLiuY0PbH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FXQEVQ533QLiuY0PbH-3" target="m5FXQEVQ533QLiuY0PbH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-3" value="数据处理层&lt;div&gt;解码、抽帧、预处理、增强&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="78" width="182" height="60" as="geometry" />
+          <mxGeometry x="-9" y="78" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m5FXQEVQ533QLiuY0PbH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m5FXQEVQ533QLiuY0PbH-4" target="m5FXQEVQ533QLiuY0PbH-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-4" value="模型训练层&lt;div&gt;特征提取、模型构建、迭代训练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="78" width="187" height="60" as="geometry" />
+          <mxGeometry x="275" y="78" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5FXQEVQ533QLiuY0PbH-6" value="推理服务层&lt;div&gt;模型部署、实时推理、调度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="78" width="166" height="60" as="geometry" />
