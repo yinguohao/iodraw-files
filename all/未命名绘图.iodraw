@@ -20,10 +20,10 @@
           <mxGeometry x="-237" y="312" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="推理服务层&lt;div&gt;批量推理、标准化输出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-239" y="393" width="188" height="60" as="geometry" />
+          <mxGeometry x="-225" y="386" width="188" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="系统部署层&lt;div&gt;容器部署、缓存优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-194" y="450" width="146" height="60" as="geometry" />
+          <mxGeometry x="-199" y="478" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-6" value="性能反馈层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="379" width="120" height="60" as="geometry" />
