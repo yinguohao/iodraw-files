@@ -28,7 +28,7 @@
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-6" value="性能反馈层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="483" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-109" y="394" as="sourcePoint" />
             <mxPoint x="-59" y="344" as="targetPoint" />
