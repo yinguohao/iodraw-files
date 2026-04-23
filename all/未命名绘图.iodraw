@@ -14,7 +14,7 @@
           <mxGeometry x="-237" y="224" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="模型训练层&lt;div&gt;多模态模型、指令微调、LoRA训练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-227" y="319" width="207" height="60" as="geometry" />
+          <mxGeometry x="-237" y="312" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="推理服务层&lt;div&gt;批量推理、标准化输出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="38" y="143" width="120" height="60" as="geometry" />
