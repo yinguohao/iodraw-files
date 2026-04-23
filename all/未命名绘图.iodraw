@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1826" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1426" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -8,50 +8,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-1" value="视频输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-191" y="144" width="120" height="48" as="geometry" />
+          <mxGeometry x="46" y="146" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-2" target="vxm4yi3rRW2EOiC_x4_8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="数据处理层&lt;div&gt;视频解析抽帧、运动检测、样本划分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="222" width="212" height="60" as="geometry" />
+          <mxGeometry y="224" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="模型训练层&lt;div&gt;多模态模型、指令微调、LoRA训练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="312" width="212" height="60" as="geometry" />
+          <mxGeometry y="314" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="推理服务层&lt;div&gt;批量推理、标准化输出&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="398" width="188" height="60" as="geometry" />
+          <mxGeometry x="12" y="400" width="188" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="系统部署层&lt;div&gt;容器部署、缓存优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-204" y="492" width="146" height="60" as="geometry" />
+          <mxGeometry x="33" y="494" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-6" value="性能反馈层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2" y="492" width="120" height="60" as="geometry" />
+          <mxGeometry x="239" y="494" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-3" target="vxm4yi3rRW2EOiC_x4_8-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-109" y="394" as="sourcePoint" />
-            <mxPoint x="-59" y="344" as="targetPoint" />
+            <mxPoint x="128" y="396" as="sourcePoint" />
+            <mxPoint x="178" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-4" target="vxm4yi3rRW2EOiC_x4_8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-109" y="394" as="sourcePoint" />
-            <mxPoint x="-59" y="344" as="targetPoint" />
+            <mxPoint x="128" y="396" as="sourcePoint" />
+            <mxPoint x="178" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-5" target="vxm4yi3rRW2EOiC_x4_8-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-109" y="394" as="sourcePoint" />
-            <mxPoint x="-59" y="344" as="targetPoint" />
+            <mxPoint x="128" y="396" as="sourcePoint" />
+            <mxPoint x="178" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="62" y="487" as="sourcePoint" />
-            <mxPoint x="-25" y="254.01999999999998" as="targetPoint" />
+            <mxPoint x="299" y="489" as="sourcePoint" />
+            <mxPoint x="212" y="256.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="62" y="254" />
+              <mxPoint x="299" y="256" />
             </Array>
           </mxGeometry>
         </mxCell>
