@@ -7,8 +7,8 @@
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-1" value="视频输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-411" y="251" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="339" width="120" height="60" as="geometry" />
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="数据处理层&lt;div&gt;视频解析抽帧、运动检测、样本划分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-237" y="251" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
