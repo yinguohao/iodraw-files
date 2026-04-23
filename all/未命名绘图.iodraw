@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;视频输入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="138" width="120" height="48" as="geometry" />
+          <mxGeometry x="51.25" y="157" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-2" target="vxm4yi3rRW2EOiC_x4_8-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-21.5" y="233" width="265.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型训练层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;多模态模型、指令微调、LoRA训练&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25.5" y="325" width="263" height="60" as="geometry" />
+          <mxGeometry x="-20.25" y="315" width="263" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;推理服务层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;批量推理、标准化输出&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="12" y="413" width="188" height="60" as="geometry" />
