@@ -25,12 +25,13 @@
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统部署层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;容器部署、缓存优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="38.25" y="483" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-6">
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.004;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-6" target="vxm4yi3rRW2EOiC_x4_8-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="316" y="242" as="targetPoint" />
             <Array as="points">
               <mxPoint x="316" y="363" />
-              <mxPoint x="317" y="363" />
+              <mxPoint x="312" y="363" />
+              <mxPoint x="312" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
