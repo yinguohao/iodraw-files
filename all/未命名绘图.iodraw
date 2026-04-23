@@ -23,7 +23,7 @@
           <mxGeometry x="38" y="143" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="系统部署层&lt;div&gt;容器部署、缓存优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-204" y="388" width="146" height="60" as="geometry" />
+          <mxGeometry x="-204" y="406" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-6" value="性能反馈层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="518" width="120" height="60" as="geometry" />
