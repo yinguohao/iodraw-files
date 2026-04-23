@@ -8,7 +8,7 @@
           <mxGeometry x="-191" y="126" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="数据处理层&lt;div&gt;视频解析抽帧、运动检测、样本划分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="251" width="212" height="60" as="geometry" />
+          <mxGeometry x="-237" y="224" width="212" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="模型训练层&lt;div&gt;多模态模型、指令微调、LoRA训练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="29" y="251" width="120" height="60" as="geometry" />
