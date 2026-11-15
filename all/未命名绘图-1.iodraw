@@ -40,8 +40,8 @@
             <mxPoint x="178" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-4" value="核心基因比对与系统发育树构建" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-51.5" y="296" width="120" height="60" as="geometry" />
+        <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-4" value="核心基因比对与系统发育树构建&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-76.25" y="305" width="169.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.156;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7JKHvz2zoUZ9Y_JIEXXJ-4" target="vxm4yi3rRW2EOiC_x4_8-5">
           <mxGeometry relative="1" as="geometry" />
