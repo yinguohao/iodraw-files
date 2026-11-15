@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="国家&lt;span style=&quot;background-color: initial;&quot;&gt;代表簇矩阵&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多国家共享簇&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;网络构建&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;比较国家间共享组成并聚类&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="156.5" y="293" width="146.5" height="62" as="geometry" />
+          <mxGeometry x="156.5" y="293" width="149.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地理组成相似性分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="397" width="133.75" height="30" as="geometry" />
