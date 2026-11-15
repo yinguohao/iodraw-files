@@ -13,10 +13,10 @@
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-1" value="&lt;strong&gt;&lt;font face=&quot;Helvetica&quot;&gt;全球人群来源基因组及地理元数据&lt;/font&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="157" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="&lt;strong&gt;地理分布特征&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="地理分布特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-53" y="252" width="123" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="&lt;strong&gt;国家共享关系&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="国家共享关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="154" y="252" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="国家&lt;span style=&quot;background-color: initial;&quot;&gt;代表簇矩阵&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多国家共享簇识别&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;国家共享网络构建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
