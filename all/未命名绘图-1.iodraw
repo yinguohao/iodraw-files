@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="国家&lt;span style=&quot;background-color: initial;&quot;&gt;代表簇矩阵&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多国家共享簇&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;网络构建&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;比较国家间共享组成并聚类&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="156.5" y="293" width="149.5" height="70" as="geometry" />
+          <mxGeometry x="142.25" y="294" width="149.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地理组成相似性分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="397" width="133.75" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-4" value="核心基因比对与系统发育树构建&lt;div&gt;划分种内谱系并标注地理来源&lt;/div&gt;&lt;div&gt;比较不同国家和大洲谱系组成&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-87" y="294" width="180.25" height="65" as="geometry" />
+          <mxGeometry x="-81.62" y="299" width="180.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.156;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7JKHvz2zoUZ9Y_JIEXXJ-4" target="vxm4yi3rRW2EOiC_x4_8-5">
           <mxGeometry relative="1" as="geometry" />
