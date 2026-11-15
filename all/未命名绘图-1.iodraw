@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-1" value="&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;全球人群来源基因组及地理元数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="51.25" y="157" width="120" height="48" as="geometry" />
+          <mxGeometry x="-157" y="179" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-2" target="7JKHvz2zoUZ9Y_JIEXXJ-4">
           <mxGeometry relative="1" as="geometry" />
