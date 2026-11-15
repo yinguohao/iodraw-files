@@ -25,8 +25,8 @@
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-4" target="vxm4yi3rRW2EOiC_x4_8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="国家&lt;span style=&quot;background-color: initial;&quot;&gt;代表簇矩阵&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多国家共享簇识别&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;国家共享网络构建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="156.5" y="293" width="121" height="62" as="geometry" />
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-4" value="国家&lt;span style=&quot;background-color: initial;&quot;&gt;代表簇矩阵&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多国家共享簇&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;网络构建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="156.5" y="293" width="146.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地理组成相似性分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="397" width="133.75" height="30" as="geometry" />
