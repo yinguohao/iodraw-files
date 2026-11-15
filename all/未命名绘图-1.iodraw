@@ -4,9 +4,6 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vxm4yi3rRW2EOiC_x4_8-1" target="vxm4yi3rRW2EOiC_x4_8-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-1" target="vxm4yi3rRW2EOiC_x4_8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -46,10 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-4" value="核心基因比对与系统发育树构建&lt;div&gt;划分种内谱系并标注地理来源&lt;/div&gt;&lt;div&gt;比较不同国家和大洲谱系组成&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-81.62" y="299" width="180.25" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.156;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7JKHvz2zoUZ9Y_JIEXXJ-4" target="vxm4yi3rRW2EOiC_x4_8-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="189" y="67" width="180.25" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
