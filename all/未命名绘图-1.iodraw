@@ -16,7 +16,7 @@
         <mxCell id="7JKHvz2zoUZ9Y_JIEXXJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxm4yi3rRW2EOiC_x4_8-2" target="7JKHvz2zoUZ9Y_JIEXXJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="地理分布特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vxm4yi3rRW2EOiC_x4_8-2" value="种内谱系与地理分布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-53" y="252" width="123" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vxm4yi3rRW2EOiC_x4_8-3" value="国家共享关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
